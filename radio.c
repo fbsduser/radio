@@ -5,7 +5,7 @@
  * http://blog.naver.com/kjnam100/220694105789
  *
  * compile with gcc -lm -lwiringPi -o radio_tea5767 radio_tea5767.c
- * I made some changes to chnage Frq from top 108Mhz to about 134 MHz... working. 
+ * I made some changes to chnage Frq from top 108Mhz to 134 MHz... working.  ///do not trust to auuto complete ...
  */
 #include <wiringPi.h> 
 #include <wiringPiI2C.h> 
